@@ -103,3 +103,5 @@ Ordering by total events hosted in descending order to show most active clients 
 ![Screenshot 2025-03-14 215814](https://github.com/user-attachments/assets/06c0253e-8d34-4e72-a3c4-9b499d1f27f1)
 
 ## Database Information
+![image](https://github.com/user-attachments/assets/4b097679-254c-437b-8824-073ad973cbc5)
+Name of the database: ha_group1_crn61608
